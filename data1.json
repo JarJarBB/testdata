@@ -1,1 +1,43 @@
-{"name":"Number #0010","symbol":"NB","description":"Collection of 10 numbers on the blockchain. This is the number 10/10.","seller_fee_basis_points":500,"image":"https://us.123rf.com/450wm/aquir/aquir1907/aquir190703338/126080308-updated-stamp-updated-square-grunge-sign-updated.jpg?ver=6","attributes":[{"trait_type":"Layer-1","value":"0"},{"trait_type":"Layer-2","value":"0"},{"trait_type":"Layer-3","value":"1"},{"trait_type":"Layer-4","value":"0"}],"properties":{"creators":[{"address":"6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ","share":100}],"files":[{"uri":"https://us.123rf.com/450wm/aquir/aquir1907/aquir190703338/126080308-updated-stamp-updated-square-grunge-sign-updated.jpg?ver=6","type":"image/png"}]},"collection":{"name":"numbers","family":"numbers"}}
+{
+  "name": "Number #0010",
+  "symbol": "NB",
+  "description": "Collection of 10 numbers on the blockchain. This is the number 10/10.",
+  "seller_fee_basis_points": 500,
+  "image": "https://png.pngitem.com/pimgs/s/189-1893489_update-upgrade-renew-impro-work-update-hd-png.png",
+  "attributes": [
+    {
+      "trait_type": "Layer-1",
+      "value": "0"
+    },
+    {
+      "trait_type": "Layer-2",
+      "value": "0"
+    },
+    {
+      "trait_type": "Layer-3",
+      "value": "1"
+    },
+    {
+      "trait_type": "Layer-4",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://png.pngitem.com/pimgs/s/189-1893489_update-upgrade-renew-impro-work-update-hd-png.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "numbers",
+    "family": "numbers"
+  }
+}
